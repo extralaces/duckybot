@@ -1,0 +1,10 @@
+{
+    "name": "ducky-bot",
+    "version": "1.1.0",
+    "description": "Discord bot made by Ducky",
+    "main": "bot.js",
+    "author": "Ducky",
+    "dependencies": {
+        "discord.js": "^11.3.2"
+    }
+}
